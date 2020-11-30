@@ -1,0 +1,19 @@
+{
+ "name": "Sandro Linux Matrix Theme",
+ "description": "A theme which gives Firefox a Black and Lime look",
+ "version": "1.7",
+ "manifest_version": 2,
+ "icons": {"48": "SLE_Matrix_Icon_48.png", "800": "sandrolinuxtheme.png"},
+ "theme": {
+  "colors": {
+    "frame": "ff9100",
+    "tab_background_text": "lime",
+    "tab_loading": "#ff0000",
+    "tab_selected": "#000000",
+    "toolbar_field_highlight": "#ff0000",
+    "toolbar_field": "ff9100",
+    "toolbar_field_text": "#ffffff",
+    "toolbar_text": "#ffffff"
+  }
+}
+}
