@@ -6,4 +6,4 @@ A theme which gives Firefox a Black and Lime look
 <p>Screenshot of a normal firefox installation with my theme</p>
 ![alt text](screenshots/Matrix_Theme_Screenshot.png "Screenshot")
 <p>Screenshot of a firefox installation using the Photon Australis Dark with my theme</p>
-![Matrix Australis](https://github.com/SandroLinux/Sandro-Linux-Matrix-Theme/raw/main/screenshots/photon-australis_screenshot.png?raw=true "Screenshot with Photon Australis Dark")
+![Matrix Australis](https://github.com/SandroLinux/Sandro-Linux-Matrix-Theme/raw/main/screenshots/photon-australis_screenshot.png?raw=true)
